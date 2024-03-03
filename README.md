@@ -53,14 +53,14 @@ Over the past year and a half, I've been juggling my studies for a master's degr
 Three Power BI dashboards were created as a final result
 
 The overview dashboard focused on getting a bird eye view on every brand interms of the average price, min and max price, standard deviation of price and number of items. A category filter was placed on the top to look into specific segments
-![](C:\Users\zayed\PycharmProjects\webscrapping_sunglasshut\outcome_gif\overview.gif)
+![](https://github.com/zayedshafi/portfolio_project/blob/master/outcome_gif/overview.gif) 
 
 
 The All Items dashboard was made to have a look into all the products from every brand. Apart from the category filter from the first dashboard brand selector filter was added and also a price slider to look into specific segment.
-![](C:\Users\zayed\PycharmProjects\webscrapping_sunglasshut\outcome_gif\allItems.gif)
+![](https://github.com/zayedshafi/portfolio_project/blob/master/outcome_gif/allItems.gif)
 
 The Discount Items dashboard was made to have a better understanding of products that are currrently discounted with the same filter options as the All Items dashboard.
-![](C:\Users\zayed\PycharmProjects\webscrapping_sunglasshut\outcome_gif\discountItems.gif)
+![](https://github.com/zayedshafi/portfolio_project/blob/master/outcome_gif/discountItems.gif)
 
 
 ### Conclusion
