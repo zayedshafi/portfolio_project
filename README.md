@@ -52,6 +52,8 @@ Over the past year and a half, I've been juggling my studies for a master's degr
 ### Demo
 
 ![](https://github.com/zayedshafi/portfolio_project/blob/master/overview.gif)
+![](https://github.com/zayedshafi/portfolio_project/blob/master/allItems.gif)
+![](https://github.com/zayedshafi/portfolio_project/blob/master/discountItems.gif)
 
 
 
